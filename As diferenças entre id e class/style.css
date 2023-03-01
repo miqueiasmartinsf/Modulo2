@@ -1,0 +1,30 @@
+
+#maintitle{
+    text-align: center;
+    color: white;
+    background-color: gray;
+
+}
+
+body{
+    background-color: aquamarine;
+    
+}
+
+.basico{
+    color: green;
+}
+
+.intermediario{
+    color: yellow;
+}   
+
+.avançado{
+    color:red;
+}
+
+.subtitle{
+    color:white;
+    background-color: gray;
+    
+}

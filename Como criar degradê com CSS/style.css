@@ -1,0 +1,29 @@
+
+
+body{
+    background-image: linear-gradient(to bottom, #AB56CC, #741299, #9B85FF) ;
+
+    
+
+}
+
+
+#div1{
+    width: 100%;
+    height: 150px;
+    background-image: linear-gradient(to bottom, #f0da8c, #CD971E);
+    text-align: center;    
+}
+
+main{
+    height: 500px;
+    width: 60%;
+    background-color:#FFF2C4;
+    margin:auto
+    
+
+    
+
+
+
+}
